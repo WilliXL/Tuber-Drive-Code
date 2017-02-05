@@ -1,0 +1,2 @@
+ResourceDepletions = []
+MarkerLocations = []
